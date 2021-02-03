@@ -25,7 +25,7 @@
 ### Documentation
 
 1. [ ] Development, Deployment, and Testing are all documented and linked in the main README.
-2. [ ] documents exist for all major decisions about the service.
+2. [ ] Documents exist for all major decisions about the service.
 3. [ ] Design document exists detailing the need of this service with impacted services and customers called out.
 
 ### Continuous Integration
