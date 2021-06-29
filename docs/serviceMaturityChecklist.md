@@ -1,4 +1,4 @@
-# SRE Checklist
+# Service Maturity Checklist
 
 ## Level 1 - The Prototype Phase (Build, Test and Deploy)
 
